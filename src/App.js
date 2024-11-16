@@ -18,7 +18,7 @@ function App() {
   return (
     <div >
       {loading && <Loader />}
-      <BrowserRouter>
+      <BrowserRouter  basename="/FutaBusDoAn">
         <Routes>
           <Route path="/" element={<ProtectedRoute><Home /></ProtectedRoute>} />
           <Route path="/book-now/:id" element={<ProtectedRoute><BookNow /></ProtectedRoute>} />
