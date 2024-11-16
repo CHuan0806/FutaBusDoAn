@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/futabusdoan/static/css/main.84bf6922.css",
+    "main.js": "/futabusdoan/static/js/main.25f5f622.js",
+    "static/js/453.419a5d54.chunk.js": "/futabusdoan/static/js/453.419a5d54.chunk.js",
+    "index.html": "/futabusdoan/index.html",
+    "main.84bf6922.css.map": "/futabusdoan/static/css/main.84bf6922.css.map",
+    "main.25f5f622.js.map": "/futabusdoan/static/js/main.25f5f622.js.map",
+    "453.419a5d54.chunk.js.map": "/futabusdoan/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84bf6922.css",
+    "static/js/main.25f5f622.js"
+  ]
+}
